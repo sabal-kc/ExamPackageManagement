@@ -1,0 +1,6 @@
+[submodule "dbms-backend"]
+	path = dbms-backend
+	url = https://github.com/iamshrawan/Exam-Package-Management-System.git
+[submodule "dbms-frontend"]
+	path = dbms-frontend
+	url = https://github.com/regmirabindra/DBMS-Frontend.git

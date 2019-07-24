@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/iamshrawan/Exam-Package-Management-System
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/regmirabindra/DBMS-Frontend
